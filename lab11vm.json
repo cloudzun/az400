@@ -81,7 +81,7 @@
 				"autoUpgradeMinorVersion": true,
 				"settings": {
 					"fileUris": [
-						"https://raw.githubusercontent.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/master/Allfiles/Labs/11b/chrome_firefox_VSTSagent_IIS.ps1"
+						"https://raw.githubusercontent.com/cloudzun/az400/main/chrome_firefox_VSTSagent_IIS.ps1"
 					],
                     
                 "protectedSettings": {
