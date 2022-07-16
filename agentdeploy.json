@@ -28,7 +28,7 @@
 				"osProfile": {
 					"computerName": "[parameters('virtualMachineName')]",
 					"adminUsername": "vmadmin",
-					"adminPassword": "2wsx#EDC$RFV",
+					"adminPassword": "P2ssw0rd@123",
 					"windowsConfiguration": {
 						"provisionVmAgent": "true"
 					}
@@ -113,7 +113,7 @@
 				},
 				"protectedSettings": {
 					"SQLAuthUpdateUserName": "vmadmin",
-					"SQLAuthUpdatePassword": "2wsx#EDC$RFV"
+					"SQLAuthUpdatePassword": "P2ssw0rd@123"
 				}
 			},
 			"dependsOn": [
